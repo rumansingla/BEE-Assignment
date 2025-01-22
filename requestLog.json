@@ -1,0 +1,8 @@
+{"Timestamp":"2025-01-22T02:46:38.351Z","IPAddress":"::ffff:127.0.0.1","URL":"/timestamp/","Protocol":"http","Method":"GET","HostName":"localhost"}
+{"Timestamp":"2025-01-22T02:46:46.120Z","IPAddress":"::ffff:127.0.0.1","URL":"/timestamp/","Protocol":"http","Method":"GET","HostName":"localhost"}
+{"Timestamp":"2025-01-22T02:46:47.391Z","IPAddress":"::ffff:127.0.0.1","URL":"/timestamp/","Protocol":"http","Method":"GET","HostName":"localhost"}
+{"Timestamp":"2025-01-22T02:53:44.977Z","IPAddress":"::ffff:127.0.0.1","URL":"/timestamp/","Protocol":"http","Method":"GET","HostName":"localhost"}
+{"Timestamp":"2025-01-22T02:53:47.207Z","IPAddress":"::ffff:127.0.0.1","URL":"/timestamp/","Protocol":"http","Method":"GET","HostName":"localhost"}
+{"Timestamp":"2025-01-22T02:53:48.727Z","IPAddress":"::ffff:127.0.0.1","URL":"/timestamp/","Protocol":"http","Method":"GET","HostName":"localhost"}
+{"Timestamp":"2025-01-22T02:53:49.496Z","IPAddress":"::ffff:127.0.0.1","URL":"/timestamp/","Protocol":"http","Method":"GET","HostName":"localhost"}
+{"timestamp":"2025-01-22T02:56:03.752Z","ipAddress":"::ffff:127.0.0.1","URL":"/timestamp/","protocol":"http","method":"GET","hostName":"localhost","queryParameter":{},"requestHeaders":{"accept-encoding":"gzip, deflate, br","accept":"*/*","user-agent":"Thunder Client (https://www.thunderclient.com)","host":"localhost:3000","connection":"close"},"userAgent":"Thunder Client (https://www.thunderclient.com)"}
